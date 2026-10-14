@@ -1,15 +1,15 @@
-## Hii this is Arpit.
-<!--
-**arpitmridulrai-lgtm/arpitmridulrai-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hii this is Arpit.
+I am undergraduate Student in VIT Pune Pursuing my **B.Tech in Computer Science and Engineering (Specialization in Data Science)
 
-Here are some ideas to get you started:
+Technical Skills and Core Track
+Languages- Python
+Developer tools- VS Code, GitHub, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I am up to
+🌱 Currently learning: Advanced Data Analytics, Mechine Learing Algorithms, Data base Management System
+💻 Current Project: EDI GOV Project
+
+
+📨 For Connections: Instagram - arpit.r4
+                    LinkedIn  - Arpit Rai
+                    Email     - arpit.12610246@vit.edu
